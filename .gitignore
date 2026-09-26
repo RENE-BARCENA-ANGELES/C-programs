@@ -1,0 +1,13 @@
+# Ejecutables compilados
+*.exe
+*.out
+
+# Archivos de compilación
+*.o
+*.obj
+
+# Configuración de VS Code
+.vscode/
+
+# Archivos temporales
+*.tmp
